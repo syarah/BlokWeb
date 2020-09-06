@@ -64,11 +64,11 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 **Screenshot(s):**
 
-![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/image1.png)
+![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/imageIphone1.png)
 
-![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/image2.png)
+![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/imageIphone2.png)
 
-![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/image3.png)
+![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/imageIphone3.png)
 
 
 
