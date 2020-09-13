@@ -58,25 +58,34 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 **Je startniveau:**  blauwepiste
 
-**Je focus:** surface plane 
+**Je focus:** responsive 
 
-**Je opdracht:** https://www.notion.so/product
+**Je opdracht:** https://www.monki.com/en_eur/index.html
 
 **Screenshot(s):**
 
-![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/imageIphone1.PNG)
+![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/image1.PNG)
 
-![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/imageIphone2.PNG)
+![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/image2.PNG)
 
-![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/imageIphone3.PNG)
+![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/image3.PNG)
 
+![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/image4.PNG)
 
+![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/image5.png)
+
+![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/image6.png)
+
+![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/image7.png)
+
+![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/image8.png)
+
+![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/image9.png)
 
 
 **Breakdown-schets(en):**
 
-![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](images/imageBreakDown1.png)
+![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](images/BreakdownSchetsMac1.png)
 
-![voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken](images/imageBreakDown2.png)
+![voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken](images/BreakdownSchetsMac2.png)
 
-![voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken](images/imageBreakDown3.png)
