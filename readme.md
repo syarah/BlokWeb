@@ -38,14 +38,29 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ### Stand van zaken
 
+--Onderwerp: Flexbox--
+
+-extra oefenen-
 Deze week heb ik nog wat aandacht besteed aan flexbox. Na de froggy opdracht en de flexbox opdracht heb ik nu een beter beeld van de wat de elemeten die beschikbaar zijn allemaal kunnen en welke problemen ze kunnen oplossen. 
 
+-wat is nog lastig?-
 Het enige wat ik nog lastig vind is bepalen wanneer je welk element gebruikt. Veel lijken op elkaar dus dat is soms lastig. Ik heb gemerkt dat blijven experimenteren en zien wat er gebeurt als ik een element gebruik, het beste helpt hierbij.
 
 
-Java script
+--Onderwerp: Java script--
+
+Voor het begrijpen Java script heb ik de video's meerdere malen bekeken en de opdrachten gemaakt. Hierbij liep ik al snel vast omdat het mij niet lukte oprecht te begrijpen hoe javascript en wat de code doet die erbij hoort. 
+
+-In de les-
+Hiervoor heb ik in de les het deel van de opdracht laten zien waar ik vast liep en realiseerde ik em dat ik goed opweg was, alleen vanwege niet goed de logica van javascript te snappen was ik een deel vergeten. (ervoor zorgen dat er iets gebeurt nadat de button klikbaar is) Met hulp van medestudenten heb ik dit kunnen oplossen
+
+-final thoughts- 
+Na de javascript demo in de les kon ik eindelijk zeggen dat ik de basics van javascript begreep. Het implementeren in mijn eindopdracht word de volgende uitdaging.
 
 
+--website switch--
+
+Toch nog geswitched van website. Ik heb nu als eindkeuze bol.com vanwege de balans tussen content, complexe onderdelen en simpel design.
 
 **Screenshot(s):**
 
@@ -53,7 +68,7 @@ Java script
 
 ### Agenda voor meeting
 
-Op dit moment heeft onze groep geen punten die we zouden kunnen bespreken. 
+Op dit moment heeft onze groep nog geen punten die we zouden kunnen bespreken. 
 ### Verslag van meeting
 
 -na afloop snel uitkomsten vastleggen-
@@ -63,12 +78,20 @@ Op dit moment heeft onze groep geen punten die we zouden kunnen bespreken.
 
 ## (week 2)
 
-onderwerp positionering
+--Onderwerp: positionering--
 
+(beschrijf proces)
+
+
+--Overig--
+
+Ik heb besloten te switchen van website aangezien de content die hoort bij de notion website wat lastiger word om zelf na te maken. Voornamelijk de demo-video's. 
 
 
 
 ## Intake (week 1)
+
+Deze week bestond vooral uit het introduceren van het vak, de opdracht en planning. Daarnaast ook het kiezen van een website en hiervan breakdown schetsen te maken. Mijn keuze ging uit naar de Notion website vanwege het minimalistische design en de verwerking van video / visual. Dit wilde ik graag leren om te maken. 
 
 **Je startniveau:**  blauwepiste
 
