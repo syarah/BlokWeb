@@ -38,7 +38,14 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ### Stand van zaken
 
--dit ging goed & dit was lastig-
+Deze week heb ik nog wat aandacht besteed aan flexbox. Na de froggy opdracht en de flexbox opdracht heb ik nu een beter beeld van de wat de elemeten die beschikbaar zijn allemaal kunnen en welke problemen ze kunnen oplossen. 
+
+Het enige wat ik nog lastig vind is bepalen wanneer je welk element gebruikt. Veel lijken op elkaar dus dat is soms lastig. Ik heb gemerkt dat blijven experimenteren en zien wat er gebeurt als ik een element gebruik, het beste helpt hierbij.
+
+
+Java script
+
+
 
 **Screenshot(s):**
 
@@ -46,11 +53,18 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ### Agenda voor meeting
 
--samen met je groepje opstellen-
-
+Op dit moment heeft onze groep geen punten die we zouden kunnen bespreken. 
 ### Verslag van meeting
 
 -na afloop snel uitkomsten vastleggen-
+
+
+
+
+## (week 2)
+
+onderwerp positionering
+
 
 
 
@@ -64,28 +78,21 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 **Screenshot(s):**
 
-![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/image1.PNG)
+![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/MacImage1.PNG)
 
-![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/image2.PNG)
+![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/MacImage2.PNG)
 
-![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/image3.PNG)
+![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/MacImage3.PNG)
 
-![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/image4.PNG)
+![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/Macimage4.PNG)
 
-![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/image5.png)
 
-![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/image6.png)
-
-![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/image7.png)
-
-![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/image8.png)
-
-![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/image9.png)
 
 
 **Breakdown-schets(en):**
 
-![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](images/BreakdownSchetsMac1.png)
+![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](images/BreakDown1.png)
 
-![voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken](images/BreakdownSchetsMac2.png)
+![voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken](images/BreakDown2.png)
 
+![voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken](images/BreakDown3.png)
