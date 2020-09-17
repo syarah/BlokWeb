@@ -72,19 +72,19 @@ onderwerp positionering
 
 **Je startniveau:**  blauwepiste
 
-**Je focus:** responsive 
+**Je focus:** surface
 
-**Je opdracht:** https://www.monki.com/en_eur/index.html
+**Je opdracht:** https://www.bol.com/nl/
 
 **Screenshot(s):**
 
-![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/MacImage1.PNG)
+![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/MacImage1.png)
 
-![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/MacImage2.PNG)
+![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/MacImage2.png)
 
-![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/MacImage3.PNG)
+![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/MacImage3.png)
 
-![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/Macimage4.PNG)
+![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/MacImage4.png)
 
 
 
@@ -95,4 +95,4 @@ onderwerp positionering
 
 ![voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken](images/BreakDown2.png)
 
-![voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken](images/BreakDown3.png)
+![voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken](images/Breakdown3.png)
