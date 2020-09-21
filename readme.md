@@ -90,7 +90,7 @@ Toch nog geswitched van website. Ik heb nu als eindkeuze bol.com vanwege de bala
 -Voortgang eindopdracht basis html structuur / css -
 
 --origineel--
-![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/voortgang/basis3/image_v_1.png)
+![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/voortgang/basis3/image_v_12.png)
 
 --mijn eerste opzet--
 
@@ -100,8 +100,6 @@ Toch nog geswitched van website. Ik heb nu als eindkeuze bol.com vanwege de bala
 
 
 --Opzet met css--
-![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/voortgang/structuur3/image_v_5.png)
-
 
 
 ![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/voortgang/structuur3/image_v_8.png)
