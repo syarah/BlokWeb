@@ -90,32 +90,32 @@ Toch nog geswitched van website. Ik heb nu als eindkeuze bol.com vanwege de bala
 -Voortgang eindopdracht basis html structuur / css -
 
 --origineel--
-![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/voortgangScreenshots/basisStructuur/image_v_1)
+![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/voortgang/basis3/image_v_1.png)
 
 --mijn eerste opzet--
 
-![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/voortgangScreenshots/basisStructuur/image_v_2)
+![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/voortgang/basis3/image_v_2.png)
 
-![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/voortgangScreenshots/basisStructuur/image_v_3)
+![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/voortgang/basis3/image_v_3.png)
 
-![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/voortgangScreenshots/basisStructuur/image_v_4)
+![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/voortgang/basis3/imageVG4.png)
 
 
 
 --Opzet met css--
-![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/voortgangScreenshots/basisStructuur/image_v_5)
+![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/voortgangScreenshots/basisStructuur/image_v_5.png)
 
-![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/voortgangScreenshots/basisStructuur/image_v_6)
+![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/voortgang/structuur3/image_v_6.png)
 
-![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/voortgangScreenshots/basisStructuur/image_v_7)
+![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/voortgang/structuur3/image_v_7.png)
 
-![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/voortgangScreenshots/basisStructuur/image_v_8)
+![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/voortgang/structuur3/image_v_8.png)
 
-![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/voortgangScreenshots/basisStructuur/image_v_9)
+![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/voortgang/structuur3/image_v_9.png)
 
-![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/voortgangScreenshots/basisStructuur/image_v_10
+![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/voortgang/structuur3/image_v_10.png)
 
-![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/voortgangScreenshots/basisStructuur/image_v_11)
+![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/voortgang/structuur3/image_v_11)
 
 
 
