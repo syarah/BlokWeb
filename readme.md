@@ -6,9 +6,18 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 
 ## Bronnenlijst
-1. -bron 1-
-2. -bron 2-
-3. -...-
+1. Webiste iconen --> https://www.w3schools.com/icons/icons_reference.asp + https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css
+
+2. Alle Images/content --> https://www.bol.com/nl/
+
+3. Main resource voor basis html / css --> https://www.w3schools.com
+
+4. resource 2 voor html / css zijn ook opdrachten van het vak zelf --> https://codepen.io/syarah04/pen/oNxyjjV
+
+5. positioneren van de zoekbutton --> https://www.geeksforgeeks.org/how-to-put-a-responsive-clear-button-inside-html-input-text-field/
+
+6. centreren social media --> https://stackoverflow.com/questions/30473650/how-to-align-a-link-html-css/30473729
+
 
 
 
@@ -38,6 +47,18 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ### Stand van zaken
 
+--VOORTGRANG EINDOPDRACHT--
+
+
+
+
+
+Bol.com kleuren
+
+MAin blauw: 2b378b
+licht blauw: cce3f5
+
+
 --Onderwerp: Flexbox--
 
 -extra oefenen-
@@ -66,12 +87,47 @@ Toch nog geswitched van website. Ik heb nu als eindkeuze bol.com vanwege de bala
 
 -screenshot(s) van hoe ver je bent-
 
+-Voortgang eindopdracht basis html structuur / css -
+
+--origineel--
+![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/voortgangScreenshots/basisStructuur/image_v_1)
+
+--mijn eerste opzet--
+
+![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/voortgangScreenshots/basisStructuur/image_v_2)
+
+![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/voortgangScreenshots/basisStructuur/image_v_3)
+
+![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/voortgangScreenshots/basisStructuur/image_v_4)
+
+
+
+--Opzet met css--
+![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/voortgangScreenshots/basisStructuur/image_v_5)
+
+![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/voortgangScreenshots/basisStructuur/image_v_6)
+
+![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/voortgangScreenshots/basisStructuur/image_v_7)
+
+![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/voortgangScreenshots/basisStructuur/image_v_8)
+
+![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/voortgangScreenshots/basisStructuur/image_v_9)
+
+![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/voortgangScreenshots/basisStructuur/image_v_10
+
+![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/voortgangScreenshots/basisStructuur/image_v_11)
+
+
+
+
 ### Agenda voor meeting
 
 Op dit moment heeft onze groep nog geen punten die we zouden kunnen bespreken. 
+
+
 ### Verslag van meeting
 
--na afloop snel uitkomsten vastleggen-
+Vanwege website switches had ik een achterstand opgelopen. Hierdoor heb ik afgesproken met de docent dat ik as maandag alsnog het werk laat zien --> 2 werkende pagina's in mobile size.
 
 
 

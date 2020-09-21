@@ -1,46 +1,267 @@
-/* CSS Document */
-*, *::after, *::before {
-  box-sizing:border-box;  
+
+
+
+/*Header Css zone*/
+header{
+  
+
+
+display: flex;
+flex-wrap: wrap;
+flex-direction: column;
+
 }
 
-/* Style the navigation menu */
-.topNavBar {
-  overflow: hidden;
-  background-color: #333;
-  position: relative;
+
+.searchBar{
+
+position: relative;
+max-width: 100%;
+
 }
 
-/* Hide the links inside the navigation menu (except for logo/home) */
-.topNavBar #myLinks {
-  display: none;
+header form{
+
+background-color: #0000a4;
+flex-wrap: wrap;
+padding: 10px 10px 10px 10px;
+
+
 }
 
-/* Style navigation menu links */
-.topNavBAr a {
-  color: white;
-  padding: 14px 16px;
+header form input{
+
+  color: aquamarine;
+
+
+}
+
+#search{
+  border-radius: 30px;
+  width: 100%;
+  height: auto;
+  outline: none;
+  padding: 1em 1em 1em 1em;
+  border: none;
+
+
+}
+
+header form button{
+
+position: absolute;
+border: none;
+background: none;
+z-index: 2;
+right: 1.5em;
+top: 1.5em;
+
+}
+
+/*Header - Top nav Bar Css zone*/
+
+
+.topNavBar ul{
+ 
+  display: flex;
+  list-style-type:none;
+
+}
+
+
+
+
+.topNavBar a{
+
+  color: #0000a4;
+
+
+  }
+
+.topNavBar img{
+
+  max-width: 150px;
+  max-height: 100%;
+  
+}
+
+
+/*Body Css zone*/
+
+body {
+
+  font-family: montserrat, sans-serif;
+
+}
+
+
+
+/*Main Css zone*/
+
+
+/*Section 1 - First showcase*/
+
+.headerImageNajaarsCollectie{
+
+  max-width: 100%;
+  max-height: 100%;
+  padding-top: 1em;
+}
+
+
+.advertentieImage1{
+
+  width: 100%;
+  height: auto;
+  padding: 0;
+  margin: 0;
+
+}
+
+
+.textAdver1{
+
+  font-size: 0.5em;
+  padding: 0;
+  margin:0;
+  color:#828282;
+  text-align: center;
+}
+
+
+
+
+/* FOOTER ZONE*/
+
+footer ul{
+
+list-style-type:none;
+padding: 0;
+
+}
+
+.footerServiceEnContact{
+
+  background-color: #0000a4;
+  color:white;
+  padding: 1em;
+
+}
+
+.footerServiceEnContact p.serviceH1{
+
+  font-weight: bold;
+  font-size: 1em;
+  
+}
+
+.footerServiceEnContact p.serviceH2{
+
+font-size: small;
+font-weight: bold;
+
+}
+
+
+.footerServiceEnContact p.serviceText{
+
+  font-size: small;
+
+
+}
+
+
+.footerServiceEnContact a{
+
+color: white;
+
+
+}
+
+.footerServiceEnContact a:hover{
+
   text-decoration: none;
-  font-size: 17px;
+
+}
+
+
+.footerServiceEnContact a:active{
+
+  background-color: lightblue;
+
+}
+
+
+.footerInfoLinks a{
+
+text-decoration: none;
+color: #333;
+font-size: 0.8em;
+
+}
+
+
+hr{
+
+  color: lightgray;
+}
+
+.footerInfoLinks a:hover{
+
+  text-decoration: underline;
+
+}
+
+.footerSocials p.titleSocialLinks {
+
+  font-size: 0.9em;
+  font-weight: bold;
+  text-align: center;
+  padding-top: 2em;
+  }
+
+
+.footerSocials p a{
+
+text-decoration: none;
+color: #00f;
+}
+
+
+.footerSocials ul {
   display: block;
+  text-align: center;
+  padding: 0.5em;
+  }
+
+  .footerSocials ul a {
+
+  padding: 0.5em;
+    }
+
+  .footerSocials p.meldAanText{
+
+   text-align: center;
+    font-size: 0.8em;
+    padding-bottom: 2em;
+    }
+
+.footerLast a{
+
+  text-decoration: none;
+  color: #00f;
+
 }
 
-/* Style the hamburger menu */
-.topNavBar a.icon {
-  background: black;
-  display: block;
-  position: absolute;
-  right: 0;
-  top: 0;
+.footerLast p.beoordeling{
+
+ font-size: 0.7em;
+
 }
 
-/* Add a grey background color on mouse-over */
-.topNavBar a:hover {
-  background-color: #ddd;
-  color: black;
-}
+.footerLast p.sterretje{
 
-/* Style the active link (or home/logo) */
-.active {
-  background-color: #4CAF50;
-  color: white;
-}
+  font-size: 0.5em;
+ padding: 0em 3em 3em 3em;
+ text-align: center;
+ }

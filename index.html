@@ -1,24 +1,217 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="nl">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="author" content="jouw naam" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <title>Bol.com website remake - Syarah</title>
+
+    <link href="styles/style.css" rel="stylesheet" />
+
+    <!-- Load Google icon reference library: https://www.w3schools.com/icons/icons_reference.asp -->
+    <link
+      rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons"/>
 	
-<head>
-	<meta charset="UTF-8">
-	<meta name="author" content="jouw naam">
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-	
-	<title>Monki website remake - Syarah</title>
-	
-	<link href="styles/style.css" rel="stylesheet">
+
+	  <!-- load Font awsome 4 icons library -->
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  
+
 </head>
 
-<!--top nav bar-->
+  <body>
+    <script src="scripts/script.js"></script>
+
+    <header>
+	  
+		
+
+	  <!--top nav bar icons bron: https://www.w3schools.com/howto/howto_css_navbar_icon.asp-->
+	  
+
+		<nav class="topNavBar">
+			
+		<!--<ul>
+
+			<li><a href="#"><i class="material-icons" >menu</i></a></li>
+			<li><a href="index.html"> <img class="logoBol" src="images/bolcom_logo_blauw_rgb.jpg" alt="logo van Bol" /></a></li>
+			<li><a href="#"><i class="material-icons" >shopping_cart</i></a></li>
+			<li><a href="#"><i class="material-icons" >favorite_border</i></a></li>
+			<li><a href="#"><i class="material-icons">person_outline</i></a></li>
 
 
-<body>
+		</ul>-->
+			
 
-	<script src="scripts/script.js"></script>
+		<a href="#"><i class="material-icons" >menu</i></a>
+		<a href="index.html"> <img class="logoBol" src="images/bolcom_logo_blauw_rgb.jpg" alt="logo van Bol" /></a>
+		<a href="#"><i class="material-icons">person_outline</i></a>
+		<a href="#"><i class="material-icons" >favorite_border</i></a>
+		<a href="#"><i class="material-icons" >shopping_cart</i></a>
+		
+
+		</nav>
 
 
-</body>
+	  <!--top search bar bron: opdracht 2 flexbox codepen -->
 	
+		<form role="search" action="#" class="searchBar">
+			<input type="search" id="search" placeholder="Waar ben je naar opzoek?" aria-label="zoeken">
+			<button type="submit"><i class="material-icons" style="color: mediumblue">search</i></button>
+		</form>
+
+
+
+    </header>
+
+
+	<main>
+
+	<!--Section 1: First Schowcase -->
+	<section>
+
+		<a href="https://www.bol.com/nl/m/10daagse/?promo=Main_900_flashbanner_A1_CRS_1_bol10daagse"><img class="headerImageNajaarsCollectie" src="images/30276_bulk_mobiel.jpg" alt="header image najaars collectie"/><a>
+
+			<!--voeg toe imahe heade najaar colletie voor groter scherm (heeft een grotere button op de image)-->
+	</section>
+
+		
+	  
+
+	<!--Section 2: First Carousel -->
+	
+
+
+    <!--Section 3: Kies Catergorie -->
+
+
+   <!--Section 4: Dagdeal -->
+
+
+
+	<!--Section 5: Dit zijn hardlopers -->
+	
+
+
+	
+	<!--Section 6: advertentie -->
+
+	<section>
+
+		<a href="https://www.bol.com/nl/ra/algemeen/philips-somneo-wake-up-light/64367/index.html?brmg=ON-17393"><img class="advertentieImage1" src="images/advertentie1.jpeg" alt="advertentie 1"/><a> 
+
+			<p class="textAdver1">Advertentie</p>
+
+	</section>
+
+
+
+
+	</main>
+
+
+	
+
+
+
+<footer>
+
+	<!--Section 7: Service en contact -->
+
+	<section class="footerServiceEnContact">
+
+		<p class="serviceH1">Service & Contact</p>
+
+	
+		<i class="material-icons" style="color: white; font-size: 3em">person_outline</i>
+		
+
+		<p class="serviceH2">Snel regelen in je account</p>
+
+		<p class="serviceText">
+
+			<a href="#">Volg je bestelling</a>,
+			<a href="#"> betaal facturen </a> of
+			<a href="#">retourneer een artikel.</a>
+	
+
+		</p>
+		
+<br>
+
+		<i class="fa fa-wechat" style="color: white;font-size:3em"></i>
+
+		<p class="serviceH2">Heb je ons nodig?</p>
+		<p class="serviceText">
+			We helpen je graag. <a href="#">Onze klantenservice</a>
+			is dag en nacht open.
+		</p>
+		
+		
+	
+
+	</section>
+		
+		<ul class= "footerInfoLinks">
+		<a href="#"><li>klantenservice</li></a>
+		
+		<hr>
+		<a href="#"><li>Over bol.com</li></a>
+		
+		<hr>
+		<a href="#"><li>Zakendoen met bol.com</li></a>
+
+		<hr>
+
+		</ul>
+
+
+<!--Social media links-->
+
+<section class="footerSocials">
+
+	<p class="titleSocialLinks">Wil je ons volgen?</p>
+
+	<ul class="footerSocialLinks">
+	
+	<a href="https://www.facebook.com/bolpuntcom"><i class="fa fa-facebook-official" style="color: #0801a4;font-size: 1.5em"></i></a>
+	<a href="https://twitter.com/bol_com"><i class="fa fa-twitter" style="color: #0801a4;font-size: 1.5em"></i></a>
+	<a href="https://www.pinterest.com/bolpuntcom/"><i class="fa fa-pinterest" style="color: #0801a4;font-size: 1.5em"></i></a>
+	<a href="https://www.instagram.com/bol_com/"><i class="fa fa-instagram" style="color: #0801a4;font-size: 1.5em"></i></a>
+	<a href="https://www.youtube.com/user/bolcom"><i class="fa fa-youtube-play" style="color: #0801a4;font-size: 1.5em"></i></a>
+	<a href="https://www.linkedin.com/authwall?trk=gf&trkInfo=AQFEnw2f9_BNzwAAAXSr95K469My6fSQlom3CmBOW_qRSAKcR4J0IgEEs69YKATx6oe4ghp4jyO3W2cnhbhac1z4sBsGsLbbY0OmH_6lq3ziQG6Hnq_ILlSdmAxtPS_pysGYl9o=&originalReferer=https://www.bol.com/nl/&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fcompany%2Fbol-com">
+		<i class="fa fa-linkedin-square" style="color: #0801a4;font-size: 1.5em"></i></a>
+	
+	</ul>
+	
+	<p class="meldAanText"><a href="#">Meld je aan</a> voor onze nieuwsbrief</p>
+	
+
+</section>
+
+
+<hr>
+
+<section class="footerLast">
+
+	<p class="beoordeling">Beoordeling door klanten <br>
+	
+		<strong>3.1</strong> van 5 - <a href="#">29764 beoordelingen</a>
+		
+		</p>
+	
+	<img class="logoBol" src="images/bolComLogo.svg" alt="logo van Bol" />
+	
+	<p class="sterretje"> * De voordelen van bol.com gelden niet voor het gehele assortiment. Bekijk de voorwaarden.
+		Alle prijzen zijn inclusief BTW en andere heffingen en exclusief eventuele verzendkosten en servicekosten.</p>
+	
+
+
+</section>
+
+
+	</footer>
+    
+  </body>
 </html>
