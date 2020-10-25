@@ -39,47 +39,36 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ## Voortgang 2 (week 5)
 
--same as voortgang 1-
+
 
 
 
 ## Voortgang 1 (week 3)
 
-### Stand van zaken
 
---VOORTGRANG EINDOPDRACHT--
+### --VOORTGRANG EINDOPDRACHT--
 
+### Onderwerp: Flexbox
 
-
-
-
-Bol.com kleuren
-
-MAin blauw: 2b378b
-licht blauw: cce3f5
-
-
---Onderwerp: Flexbox--
-
--extra oefenen-
+#### extra oefenen
 Deze week heb ik nog wat aandacht besteed aan flexbox. Na de froggy opdracht en de flexbox opdracht heb ik nu een beter beeld van de wat de elemeten die beschikbaar zijn allemaal kunnen en welke problemen ze kunnen oplossen. 
 
--wat is nog lastig?-
+#### wat is nog lastig?-
 Het enige wat ik nog lastig vind is bepalen wanneer je welk element gebruikt. Veel lijken op elkaar dus dat is soms lastig. Ik heb gemerkt dat blijven experimenteren en zien wat er gebeurt als ik een element gebruik, het beste helpt hierbij.
 
 
---Onderwerp: Java script--
+### Onderwerp: Java script
 
 Voor het begrijpen Java script heb ik de video's meerdere malen bekeken en de opdrachten gemaakt. Hierbij liep ik al snel vast omdat het mij niet lukte oprecht te begrijpen hoe javascript en wat de code doet die erbij hoort. 
 
--In de les-
+#### In de les-
 Hiervoor heb ik in de les het deel van de opdracht laten zien waar ik vast liep en realiseerde ik em dat ik goed opweg was, alleen vanwege niet goed de logica van javascript te snappen was ik een deel vergeten. (ervoor zorgen dat er iets gebeurt nadat de button klikbaar is) Met hulp van medestudenten heb ik dit kunnen oplossen
 
--final thoughts- 
+#### final thoughts- 
 Na de javascript demo in de les kon ik eindelijk zeggen dat ik de basics van javascript begreep. Het implementeren in mijn eindopdracht word de volgende uitdaging.
 
 
---website switch--
+#### website switch--
 
 Toch nog geswitched van website. Ik heb nu als eindkeuze bol.com vanwege de balans tussen content, complexe onderdelen en simpel design.
 
@@ -89,17 +78,17 @@ Toch nog geswitched van website. Ik heb nu als eindkeuze bol.com vanwege de bala
 
 -Voortgang eindopdracht basis html structuur / css -
 
---origineel--
+### origineel--
 ![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/voortgang/basis3/image_v_12.png)
 
---mijn eerste opzet--
+### mijn eerste opzet--
 
 ![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/voortgang/basis3/image_v_2.png)
 
 
 
 
---Opzet met css--
+### Opzet met css
 
 
 ![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/voortgang/structuur3/image_v_8.png)
@@ -127,12 +116,12 @@ Vanwege website switches had ik een achterstand opgelopen. Hierdoor heb ik afges
 
 ## (week 2)
 
---Onderwerp: positionering--
+###Onderwerp: positionering--
 
 (beschrijf proces)
 
 
---Overig--
+###Overig
 
 Ik heb besloten te switchen van website aangezien de content die hoort bij de notion website wat lastiger word om zelf na te maken. Voornamelijk de demo-video's. 
 
