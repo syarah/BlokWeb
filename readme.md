@@ -6,17 +6,15 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 
 ## Bronnenlijst
-1. Webiste iconen --> https://www.w3schools.com/icons/icons_reference.asp + https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css
+1. Alle Images/content --> https://www.bol.com/nl/
 
-2. Alle Images/content --> https://www.bol.com/nl/
+2. Main resource voor basis html / css --> https://www.w3schools.com
 
-3. Main resource voor basis html / css --> https://www.w3schools.com
+3. resource 2 voor html / css zijn ook opdrachten van het vak zelf --> https://codepen.io/syarah04/pen/oNxyjjV
 
-4. resource 2 voor html / css zijn ook opdrachten van het vak zelf --> https://codepen.io/syarah04/pen/oNxyjjV
+4. positioneren van de zoekbutton --> https://www.geeksforgeeks.org/how-to-put-a-responsive-clear-button-inside-html-input-text-field/
 
-5. positioneren van de zoekbutton --> https://www.geeksforgeeks.org/how-to-put-a-responsive-clear-button-inside-html-input-text-field/
-
-6. centreren social media --> https://stackoverflow.com/questions/30473650/how-to-align-a-link-html-css/30473729
+5. centreren social media --> https://stackoverflow.com/questions/30473650/how-to-align-a-link-html-css/30473729
 
 
 
@@ -33,14 +31,69 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ## Voortgang 3 (week 6)
 
--same as voortgang 1-
+### Agenda voor meeting
+
+-Voortgang laten zien 
+-aangeven waar het mis gaat en vragen stellen 
+
+
+### Verslag van meeting
+-carousels laten zien en voortgang van pagina 2
+
+
+
+### --VOORTGRANG EINDOPDRACHT--
+
+**Screenshot(s):**
+
+-screenshot(s) van hoe ver je bent-
+
+
+
+### Toevoeging website content
+![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/voortgang/week6/week6vg1)
+![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/voortgang/week6/week6vg2)
+![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/voortgang/week6/week6vg3)
+
+
 
 
 
 ## Voortgang 2 (week 5)
 
 
+### Agenda voor meeting
 
+-Voortgang laten zien 
+-vragen stellen over carousels na mislukte poging. 
+
+
+### Verslag van meeting
+
+-Besproken dat mijn opdracht zich focust op responsivness
+-voortgang beide pagina's laten zien 
+
+
+### --VOORTGRANG EINDOPDRACHT--
+
+**Screenshot(s):**
+
+-screenshot(s) van hoe ver je bent-
+
+
+
+### Toevoeging website content
+![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/voortgang/week5/week5vg)
+![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/voortgang/week5/week5vg1)
+![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/voortgang/week5/week5vg2)
+![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/voortgang/week5/week5vg3)
+![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/voortgang/week5/week5vg4)
+
+
+### Opzet pagina 2
+![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/voortgang/week5/week5vg5)
+![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/voortgang/week5/week5vg6)
+![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/voortgang/week5/week5vg7)
 
 
 ## Voortgang 1 (week 3)
@@ -50,10 +103,12 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ### Onderwerp: Flexbox
 
+
 #### extra oefenen
 Deze week heb ik nog wat aandacht besteed aan flexbox. Na de froggy opdracht en de flexbox opdracht heb ik nu een beter beeld van de wat de elemeten die beschikbaar zijn allemaal kunnen en welke problemen ze kunnen oplossen. 
 
-#### wat is nog lastig?-
+
+#### wat is nog lastig?
 Het enige wat ik nog lastig vind is bepalen wanneer je welk element gebruikt. Veel lijken op elkaar dus dat is soms lastig. Ik heb gemerkt dat blijven experimenteren en zien wat er gebeurt als ik een element gebruik, het beste helpt hierbij.
 
 
@@ -61,14 +116,14 @@ Het enige wat ik nog lastig vind is bepalen wanneer je welk element gebruikt. Ve
 
 Voor het begrijpen Java script heb ik de video's meerdere malen bekeken en de opdrachten gemaakt. Hierbij liep ik al snel vast omdat het mij niet lukte oprecht te begrijpen hoe javascript en wat de code doet die erbij hoort. 
 
-#### In de les-
+#### In de les
 Hiervoor heb ik in de les het deel van de opdracht laten zien waar ik vast liep en realiseerde ik em dat ik goed opweg was, alleen vanwege niet goed de logica van javascript te snappen was ik een deel vergeten. (ervoor zorgen dat er iets gebeurt nadat de button klikbaar is) Met hulp van medestudenten heb ik dit kunnen oplossen
 
-#### final thoughts- 
+#### final thoughts
 Na de javascript demo in de les kon ik eindelijk zeggen dat ik de basics van javascript begreep. Het implementeren in mijn eindopdracht word de volgende uitdaging.
 
 
-#### website switch--
+#### website switch
 
 Toch nog geswitched van website. Ik heb nu als eindkeuze bol.com vanwege de balans tussen content, complexe onderdelen en simpel design.
 
@@ -78,10 +133,10 @@ Toch nog geswitched van website. Ik heb nu als eindkeuze bol.com vanwege de bala
 
 -Voortgang eindopdracht basis html structuur / css -
 
-### origineel--
+### origineel
 ![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/voortgang/basis3/image_v_12.png)
 
-### mijn eerste opzet--
+### mijn eerste opzet
 
 ![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/voortgang/basis3/image_v_2.png)
 
@@ -113,10 +168,9 @@ Vanwege website switches had ik een achterstand opgelopen. Hierdoor heb ik afges
 
 
 
-
 ## (week 2)
 
-###Onderwerp: positionering--
+###Onderwerp: positionering
 
 (beschrijf proces)
 
