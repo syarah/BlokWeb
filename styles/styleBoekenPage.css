@@ -1,0 +1,152 @@
+/* BOEKEN PAGINA */
+ 
+main h3{
+
+    padding-left:0.3em;
+  }
+  
+  main p:nth-of-type(1){
+  
+  font-weight: 400;
+  font-size: small;
+  padding: 0em 0.5em 0em 0.3em;
+  
+  }
+  
+  .boekenButtons{
+  
+    padding-left: 0.3em;
+    
+    
+  }
+  
+  .boekenButtons button{
+  
+   background-color: white;
+   border: 1px solid lightgray;
+   padding: 0.5em;
+  
+  }
+  
+  .uitgelicht {
+  
+    display: flex;
+    flex-direction: column;
+    }
+  
+    .uitgelicht a:nth-of-type(1){
+  
+      background-color:lightblue;
+      padding: 4em;
+      margin-top: 1em;
+      
+      }
+  
+  .uitgelicht a:nth-of-type(2){
+  
+  background-color:#f06d88;
+  padding: 4em;
+  margin-top: 1em;
+  
+  }
+  
+  .boekTypes{
+    max-width: 100%;
+    display: flex;
+    overflow: scroll;
+  
+  }
+  
+  .boekTypes a {
+  
+    border: 1px solid lightgray;
+    padding: 0.5em;
+  margin: 2em; 
+  
+  }
+  
+.cadeauNodigText{
+
+    background-color: lavender;
+    padding: 1em;
+    font-weight: bold;
+}  
+
+.cadeauNodig button{
+
+    position: relative;
+    background-color: darkblue;
+    color: white;
+    border: none;
+    padding: 1em;
+
+}
+
+button:nth-of-type(4){
+
+color:green;
+
+}
+
+
+main p:nth-of-type(4){
+
+    padding-left: 0.3;
+    font-weight: 200;
+    font-size: small;
+}  
+
+
+.kookboek{
+
+position: relative;
+display: flex;
+    
+    
+}
+
+.kookboek img{
+
+padding: 1em;
+height: auto;
+width: auto;
+max-width: 10em;
+max-height: 10em;
+
+}
+
+/* .kookboek button{
+
+    max-height: 3em;
+
+
+} */
+
+.kookboek button:nth-of-type(1){
+
+    position: absolute;
+    top: 1em;
+    left: 9em;
+}
+
+.kookboek div{
+
+    padding: 1em;
+    flex-direction: column;
+}
+
+.kookboek div a{
+
+    font-weight: 300;
+    font-size: small;
+    text-decoration: none;
+    color: black;
+}
+
+.kookboek div p{
+
+
+    font-size: bold;
+    text-decoration: none;
+    color: black;
+}

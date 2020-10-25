@@ -1,267 +1,314 @@
-
-
-
 /*Header Css zone*/
-header{
+
+
+body{
+
+padding: 0;
+margin: 0;
+
+}
+
+header {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+
+}
+
+.searchBar {
+  position: relative;
+  max-width: 100%;
   
-
-
-display: flex;
-flex-wrap: wrap;
-flex-direction: column;
-
 }
 
-
-.searchBar{
-
-position: relative;
-max-width: 100%;
-
+header form {
+  background-color: #0000a4;
+  flex-wrap: wrap;
+  /* padding: 10px 10px 10px 10px; */
+  padding: 1em;
 }
 
-header form{
-
-background-color: #0000a4;
-flex-wrap: wrap;
-padding: 10px 10px 10px 10px;
-
-
+header form input {
+  color: #828282;
 }
 
-header form input{
-
-  color: aquamarine;
-
-
-}
-
-#search{
+#search {
   border-radius: 30px;
   width: 100%;
   height: auto;
   outline: none;
-  padding: 1em 1em 1em 1em;
+  padding: 1em;
   border: none;
-
-
 }
 
-header form button{
-
-position: absolute;
-border: none;
-background: none;
-z-index: 2;
-right: 1.5em;
-top: 1.5em;
-
+header form button {
+  position: absolute;
+  border: none;
+  background: none;
+  z-index: 2;
+  right: 1.5em;
+  top: 1.5em;
 }
 
 /*Header - Top nav Bar Css zone*/
 
-
-.topNavBar ul{
- 
-  display: flex;
-  list-style-type:none;
+.topNavBar{
+padding-bottom: 1em;
+padding-left: 0.5em;
 
 }
 
-
-
-
-.topNavBar a{
-
-  color: #0000a4;
-
-
-  }
-
-.topNavBar img{
-
-  max-width: 150px;
-  max-height: 100%;
+.topNavBar ul {
+  display: flex;
+  list-style-type: none;
   
 }
 
+.topNavBar a {
+  color: #0000a4;
+  
+}
+
+.topNavBar img {
+  max-width: 150px;
+  max-height: 100%;
+}
 
 /*Body Css zone*/
 
 body {
-
   font-family: montserrat, sans-serif;
-
 }
-
-
 
 /*Main Css zone*/
 
-
 /*Section 1 - First showcase*/
 
-.headerImageNajaarsCollectie{
-
+.headerImageNajaarsCollectie {
   max-width: 100%;
   max-height: 100%;
-  padding-top: 1em;
+  padding-top: 0.5em;
+  padding-left: 0;
 }
 
-
-.advertentieImage1{
-
+.advertentieImage1 {
   width: 100%;
   height: auto;
   padding: 0;
   margin: 0;
-
 }
 
-
-.textAdver1{
-
+.textAdver1 {
   font-size: 0.5em;
   padding: 0;
-  margin:0;
-  color:#828282;
+  margin: 0;
+  color: #828282;
   text-align: center;
 }
 
+/*Section 2 - eerste Carousel*/
 
+.eersteCarousel {
+  max-width: 100%;
+  display: flex;
+  overflow: scroll;
+}
 
+.eersteCarousel a {
+  padding: 1em 1em 1em 0;
+}
+
+/* .eersteCarousel a:nth-of-type(1){
+
+  padding-left: 0;
+
+} */
+
+.eersteCarousel img {
+  height: auto;
+  width: auto;
+  max-width: 14em;
+  max-height: 14em;
+}
+
+/*Section 3 - Kies categorie*/
+
+.kiesCategorie {
+  max-width: 100%;
+  display: flex;
+  overflow: scroll;
+}
+
+.kiesCategorie a {
+  padding: 0.5em 0.5em 0.5em 1em;
+}
+
+.kiesCategorie img {
+  height: auto;
+  width: auto;
+  max-width: 10em;
+  max-height: 10em;
+}
+
+.kiesCategorie figure {
+  margin: auto;
+}
+
+/* Section 4 - hardlopers
+
+.hardlopers{
+  background-color:pink;
+  max-width: 100%;
+  display: flex;
+  overflow: scroll;
+
+} */
+
+/*Section 5 - cadeaus voor iedereen*/
+
+.cadeausVoorIedereen {
+  max-width: 100%;
+  display: flex;
+  overflow: scroll;
+}
+
+.cadeausVoorIedereen img {
+  height: auto;
+  width: auto;
+  max-width: 30em;
+  max-height: 30em;
+}
+
+.cadeausVoorIedereen figure {
+  margin: auto;
+  padding: 1em;
+}
+
+figcaption {
+  text-align: center;
+}
+
+/*Section 6 - ook interesant*/
+
+.ookInteressant {
+  max-width: 100%;
+  display: flex;
+  overflow: scroll;
+}
+
+.ookInteressant figure {
+  margin: auto;
+  padding: 1em;
+}
+
+.ookInteressant figcaption {
+  font-size: small;
+  text-align: left;
+}
+
+.advertentieLaag {
+  padding-top: 1em;
+}
+
+.advertentieLaag img {
+  height: auto;
+  width: auto;
+  max-width: 100%;
+}
 
 /* FOOTER ZONE*/
 
-footer ul{
-
-list-style-type:none;
-padding: 0;
-
+footer ul {
+  list-style-type: none;
+  padding: 0;
 }
 
-.footerServiceEnContact{
-
+.footerServiceEnContact {
   background-color: #0000a4;
-  color:white;
+  color: white;
   padding: 1em;
-
 }
 
-.footerServiceEnContact p.serviceH1{
-
+.footerServiceEnContact p.serviceH1 {
   font-weight: bold;
   font-size: 1em;
-  
 }
 
-.footerServiceEnContact p.serviceH2{
-
-font-size: small;
-font-weight: bold;
-
-}
-
-
-.footerServiceEnContact p.serviceText{
-
+.footerServiceEnContact p.serviceH2 {
   font-size: small;
-
-
+  font-weight: bold;
 }
 
-
-.footerServiceEnContact a{
-
-color: white;
-
-
+.footerServiceEnContact p.serviceText {
+  font-size: small;
 }
 
-.footerServiceEnContact a:hover{
+.footerServiceEnContact a {
+  color: white;
+}
 
+.footerServiceEnContact a:hover {
   text-decoration: none;
-
 }
 
-
-.footerServiceEnContact a:active{
-
+.footerServiceEnContact a:active {
   background-color: lightblue;
-
 }
 
-
-.footerInfoLinks a{
-
-text-decoration: none;
-color: #333;
-font-size: 0.8em;
-
+.footerInfoLinks a {
+  text-decoration: none;
+  color: #333;
+  font-size: 0.8em;
 }
 
-
-hr{
-
+hr {
   color: lightgray;
 }
 
-.footerInfoLinks a:hover{
-
+.footerInfoLinks a:hover {
   text-decoration: underline;
-
 }
 
 .footerSocials p.titleSocialLinks {
-
   font-size: 0.9em;
   font-weight: bold;
   text-align: center;
   padding-top: 2em;
-  }
-
-
-.footerSocials p a{
-
-text-decoration: none;
-color: #00f;
 }
 
+.footerSocials p a {
+  text-decoration: none;
+  color: #00f;
+}
 
 .footerSocials ul {
   display: block;
   text-align: center;
   padding: 0.5em;
-  }
+}
 
-  .footerSocials ul a {
-
+.footerSocials ul a {
   padding: 0.5em;
-    }
+}
 
-  .footerSocials p.meldAanText{
+.footerSocials p.meldAanText {
+  text-align: center;
+  font-size: 0.8em;
+  padding-bottom: 2em;
+}
 
-   text-align: center;
-    font-size: 0.8em;
-    padding-bottom: 2em;
-    }
-
-.footerLast a{
-
+.footerLast a {
   text-decoration: none;
   color: #00f;
-
 }
 
-.footerLast p.beoordeling{
-
- font-size: 0.7em;
-
+.footerLast p.beoordeling {
+  font-size: 0.7em;
 }
 
-.footerLast p.sterretje{
-
+.footerLast p.sterretje {
   font-size: 0.5em;
- padding: 0em 3em 3em 3em;
- text-align: center;
- }
+  padding: 0em 3em 3em 3em;
+  text-align: center;
+}
+
