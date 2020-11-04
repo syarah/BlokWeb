@@ -43,7 +43,7 @@ De week voor de herfst reces.
 In deze week was ik aardig opweg. De eerste pagina was afgerond en moest alleen nog responsivne gemaakt worden en iconen switchen. De detail pagina had een goede html en css opzet. Ik hoefde alleen de resultaten informatie goed te positoneren, stylen en vervolgens responsive te maken.
 
 
-!(images/voortgang/week6/week6Vg1.png)
+![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/voortgang/week6/week6Vg1.png)
 ![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/voortgang/week6/week6Vg1.png)
 ![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/voortgang/week6/week6Vg3.png)
 
@@ -89,8 +89,8 @@ De home pagina was inmiddels al klaar (behalve responsivness)
 
 ### Toevoeging website content
 ![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/voortgang/week5/week5Vg.png)
-![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/voortgang/week5/week5Vg1.png)
-![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/voortgang/week5/week5Vg2.png)
+![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/voortgang/week5/week5_Vg1.png)
+![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/voortgang/week5/week_5_Vg_2.png)
 ![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/voortgang/week5/week5Vg3.png)
 ![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/voortgang/week5/week5Vg4.png)
 
