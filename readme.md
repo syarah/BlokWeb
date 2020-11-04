@@ -21,13 +21,13 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 ## Eindgesrpek HER (week 9/10)
 
 
-Wat er vooral mis ging was het wijzigen van de content. Alle css staat goed alleen zodra ik een image wilde wijzigen werd de css niet over de nieuwe image gezet. Alle benamingen werden ook aangepast en het zou moeten werken. Dat gebeurde niet --> Veel frustratie
+Wat er vooral mis ging was het wijzigen van de content. Alle css staat goed alleen zodra ik een image wilde wijzigen werd de css niet over de nieuwe image gezet. Alle benamingen heb ik ook aangepast waar nodig en het zou moeten werken. Dat gebeurde niet --> Veel frustratie
 
 Het positioneren van de resultaten pagina was vrij lastig. Bol.com heeft specifieke plekken voor alle info over het product en in combi met responsivness worden er elementen toegvoegd of verkleind/verwijderd. 
 
-Hier heb ik vooraf naar gevraagd en kreeg als advies alles in blokjes te schetsen en dan te puzzelen emt waar moest. Samen met de opgebouwde kennid van flexbox en positoneren, heeft dat deels geholpen voor op het kleine scherm. 
+Hier heb ik vooraf naar gevraagd en kreeg als advies alles in blokjes te schetsen en dan te puzzelen met waar wat moest. Samen met de opgebouwde kennis van flexbox en positoneren, dat heeft geholpen voor op het kleine scherm. 
 
-
+Het laaste wat misging was het toevoeging van de screenshots in github. Ik heb alle images nagekeken, de code is hetzelfde als van de vorige images en de route klopt ook. Alsnog word het niet vertoond in github, wat vrij jammer is aangezien het wel een beeld geeft bij het proces.
 
 ## Eindgesprek (week 7/8)
 
@@ -43,7 +43,7 @@ De week voor de herfst reces.
 In deze week was ik aardig opweg. De eerste pagina was afgerond en moest alleen nog responsivne gemaakt worden en iconen switchen. De detail pagina had een goede html en css opzet. Ik hoefde alleen de resultaten informatie goed te positoneren, stylen en vervolgens responsive te maken.
 
 
-![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/voortgang/week6/week6Vg1.png)
+!(images/voortgang/week6/week6Vg1.png)
 ![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/voortgang/week6/week6Vg1.png)
 ![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/voortgang/week6/week6Vg3.png)
 
