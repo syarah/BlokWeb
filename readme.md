@@ -18,18 +18,35 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 
 
+## Eindgesrpek HER (week 9/10)
+
+
+Wat er vooral mis ging was het wijzigen van de content. Alle css staat goed alleen zodra ik een image wilde wijzigen werd de css niet over de nieuwe image gezet. Alle benamingen werden ook aangepast en het zou moeten werken. Dat gebeurde niet --> Veel frustratie
+
+Het positioneren van de resultaten pagina was vrij lastig. Bol.com heeft specifieke plekken voor alle info over het product en in combi met responsivness worden er elementen toegvoegd of verkleind/verwijderd. 
+
+Hier heb ik vooraf naar gevraagd en kreeg als advies alles in blokjes te schetsen en dan te puzzelen emt waar moest. Samen met de opgebouwde kennid van flexbox en positoneren, heeft dat deels geholpen voor op het kleine scherm. 
+
+
 
 ## Eindgesprek (week 7/8)
 
--dit ging goed & dit was lastig-
+Ik heb de opdracht niet kunnen afronden voorgaand het gesprek. Ik had ervoor gekozen om de focus te leggen op de andere vakken. Het eindgesprek werd een feedback gesprek en er was afgesproken om bij de herkansing de eindopdracht te laten zien.
 
-**Screenshot(s):**
-
--screenshot(s) van je eindresultaat-
-
+Ik heb veel feedback gekregen en heb een aantal onderdelen moeten aanpassen/toevoegen. 
 
 
 ## Voortgang 3 (week 6)
+
+De week voor de herfst reces.
+
+In deze week was ik aardig opweg. De eerste pagina was afgerond en moest alleen nog responsivne gemaakt worden en iconen switchen. De detail pagina had een goede html en css opzet. Ik hoefde alleen de resultaten informatie goed te positoneren, stylen en vervolgens responsive te maken.
+
+
+![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/voortgang/week6/week6Vg1.png)
+![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/voortgang/week6/week6Vg1.png)
+![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/voortgang/week6/week6Vg3.png)
+
 
 ### Agenda voor meeting
 
@@ -44,22 +61,15 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ### --VOORTGRANG EINDOPDRACHT--
 
-**Screenshot(s):**
-
--screenshot(s) van hoe ver je bent-
-
-
-
-### Toevoeging website content
-![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/voortgang/week6/week6vg1)
-![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/voortgang/week6/week6vg2)
-![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/voortgang/week6/week6vg3)
-
-
-
-
 
 ## Voortgang 2 (week 5)
+Deze week lag de focus op de opzet van de detail pagina en voorbereid zijn op de carousel demo van aankomende maandag. Ik was zeker nog niet ver vergeleken met het vorige voortgangsgesprek dus ik heb zoveel mogelijk html toegevoegd aan de detail pagina zodat ik alleen nog met css aan de slag hoefde. 
+
+Dit ging vrij goed. Na het vallen en opstaan met de homepage ging de html bij de detail pagina veel sneller en raakte ik in een goeie flow tijdens het coderen daarvan. 
+
+De home pagina was inmiddels al klaar (behalve responsivness)
+
+
 
 
 ### Agenda voor meeting
@@ -76,33 +86,24 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ### --VOORTGRANG EINDOPDRACHT--
 
-**Screenshot(s):**
-
--screenshot(s) van hoe ver je bent-
-
-
 
 ### Toevoeging website content
-![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/voortgang/week5/week5vg)
-![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/voortgang/week5/week5vg1)
-![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/voortgang/week5/week5vg2)
-![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/voortgang/week5/week5vg3)
-![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/voortgang/week5/week5vg4)
+![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/voortgang/week5/week5Vg.png)
+![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/voortgang/week5/week5Vg1.png)
+![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/voortgang/week5/week5Vg2.png)
+![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/voortgang/week5/week5Vg3.png)
+![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/voortgang/week5/week5Vg4.png)
 
 
 ### Opzet pagina 2
-![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/voortgang/week5/week5vg5)
-![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/voortgang/week5/week5vg6)
-![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/voortgang/week5/week5vg7)
+![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/voortgang/week5/week5Vg5.png)
+![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/voortgang/week5/week5Vg6.png)
+![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/voortgang/week5/week5Vg7.png)
 
 
 ## Voortgang 1 (week 3)
 
-
-### --VOORTGRANG EINDOPDRACHT--
-
 ### Onderwerp: Flexbox
-
 
 #### extra oefenen
 Deze week heb ik nog wat aandacht besteed aan flexbox. Na de froggy opdracht en de flexbox opdracht heb ik nu een beter beeld van de wat de elemeten die beschikbaar zijn allemaal kunnen en welke problemen ze kunnen oplossen. 
@@ -127,11 +128,13 @@ Na de javascript demo in de les kon ik eindelijk zeggen dat ik de basics van jav
 
 Toch nog geswitched van website. Ik heb nu als eindkeuze bol.com vanwege de balans tussen content, complexe onderdelen en simpel design.
 
-**Screenshot(s):**
 
--screenshot(s) van hoe ver je bent-
 
--Voortgang eindopdracht basis html structuur / css -
+## Voortgang Eindopdracht
+
+De basis html voor de eerste pagina was gemaakt. Vervolgends heb ik de css toevoegd om het meer op de huisstijl van bol.com te laten lijken. Hier ging het vooral de juiste content erin zetten en netjes maken. Positionering en flexbox heb ik vaak gebruikt hiervoor om alles op de juiste plek te kunnen zetten. Na veel oefenen is dat best goed gegaan en kan er met meer vertrouwen mee werken. 
+
+Met css ging eht vooral om de juiste taal te spreken. Ik merkte vooral met de tekst aanpassen dat er een groot verschil is tussen het element font en text.
 
 ### origineel
 ![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/voortgang/basis3/image_v_12.png)
@@ -170,12 +173,14 @@ Vanwege website switches had ik een achterstand opgelopen. Hierdoor heb ik afges
 
 ## (week 2)
 
-###Onderwerp: positionering
+### Onderwerp: positionering
 
-(beschrijf proces)
+Deze week hebben we geleerd over positionering. De opdrachtne hebben heel erg geholpen met het begrijpen en kunnen coderen met de elementen die heirbij horen.
+
+In de les zijnd eopdrachten besproken en was er nog ruimte voor vragen.
 
 
-###Overig
+### Overig
 
 Ik heb besloten te switchen van website aangezien de content die hoort bij de notion website wat lastiger word om zelf na te maken. Voornamelijk de demo-video's. 
 
